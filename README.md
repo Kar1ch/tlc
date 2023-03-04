@@ -1,5 +1,7 @@
 # TLC
 
+#edited file by Kar1ch
+
 **tlc** (Terminal Line Count) utility counts lines interactively on terminal.
 It allows you to view some command's progress without filling whole
 screen by extraneous details.
